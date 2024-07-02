@@ -1,0 +1,19 @@
+{
+    "name": "node-basic-info-site",
+    "version": "1.0.0",
+    "description": "Node practice 1",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index",
+      "dev": "nodemon index"
+    },
+    "author": "Lortas102066",
+    "license": "ISC",
+    "dependencies": {
+      "uuid": "^10.0.0"
+    },
+    "devDependencies": {
+      "nodemon": "^3.1.4"
+    }
+  }
+  
